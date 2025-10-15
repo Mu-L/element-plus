@@ -3,6 +3,10 @@
   "version": "0.0.2025092801",
   "description": "test",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/element-plus/element-plus.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
